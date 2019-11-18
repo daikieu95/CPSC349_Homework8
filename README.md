@@ -7,3 +7,5 @@ This is an enhancement version of Tic Tac Toe Game that implements somre more fe
 5. It sorts the moves in descending/ascending order (Toggle button)
 6. It highlights the squares that caused the winning move.
 7. It displays a message about draws (aka Cats’ games).
+
+`npm install` and then `npm start` to run the game via your browser localhost:3000
